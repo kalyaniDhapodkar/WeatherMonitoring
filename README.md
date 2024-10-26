@@ -110,6 +110,13 @@ Clean and rebuild project<br/>
 Verify Maven dependencies<br/>
 Check Java version compatibility<br/>
 
+## Command to Run
+# First build the project with dependencies
+mvn clean package
+
+# Then run the jar with dependencies
+java -jar target/weather-monitoring-system-1.0-SNAPSHOT-jar-with-dependencies.jar
+
 ## Contact<br/>
 Name - dhapodkarkalyani@email.com <br/>
 Project Link:  https://github.com/kalyaniDhapodkar/WeatherMonitoring.git
