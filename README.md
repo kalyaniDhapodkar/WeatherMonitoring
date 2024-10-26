@@ -60,7 +60,7 @@ Click "Get Weather History"
 View weather data from the past 24 hours
 
 ## Sample Inputs
-# Popular Cities:
+## Popular Cities:
 
 London
 New York
