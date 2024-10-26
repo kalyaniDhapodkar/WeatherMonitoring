@@ -118,5 +118,5 @@ mvn clean package
 java -jar target/weather-monitoring-system-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## Contact<br/>
-Name - dhapodkarkalyani@email.com <br/>
+Name - dhapodkarkalyani@gmail.com <br/>
 Project Link:  https://github.com/kalyaniDhapodkar/WeatherMonitoring.git
