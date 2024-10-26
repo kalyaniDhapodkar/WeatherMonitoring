@@ -25,6 +25,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
 git clone https://github.com/kalyaniDhapodkar/WeatherMonitoring.git
+
 cd WeatherMonitoring
 
 2. Configure the API key:
